@@ -1,1 +1,2 @@
-# ruqayya-s-car-game
+# synchronousBallMovement
+Ball moving synchronously
